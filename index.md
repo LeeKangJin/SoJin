@@ -1,22 +1,19 @@
-## Welcome to GitHub Pages
+## 소형 & 강진
 
-You can use the [editor on GitHub](https://github.com/LeeKangJin/SoJin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+글자 글자
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 뭘해 볼지 적어 보기
 
-### Markdown
+글자 글자
+```회색 영역 ```
+블락블락
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 헤더
+## 헤더2
+### 헤더3
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- 벚꽃
+- 이미한것
 
 1. Numbered
 2. List
