@@ -11,7 +11,7 @@
 # 놀러 갈곳
 
 ## 갔던 곳
-![로즈와일리]()
+![로즈와일리](https://raw.githubusercontent.com/LeeKangJin/SoJin/gh-pages/%EB%A1%9C%EC%A6%88%EC%99%80%EC%9D%BC%EB%A6%AC.jpg)
 ### 헤더3
 
 - 벚꽃
